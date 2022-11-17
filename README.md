@@ -9,6 +9,6 @@
    
 <div>
  <a href="https://github.com/ThiagoDSMarcelino">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=blueberry">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=blueberry"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&layout=compact&langs_count=168&theme=blueberry"/>
 </div>

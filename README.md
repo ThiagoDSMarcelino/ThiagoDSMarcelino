@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2>Olá, Sou o Thiago dos Santos Marcelino!</h2>
+<h4>Aprendiz de Desenvolvimento de Sistemas (TDS) - Bosch</h4>
+<h4>Cursando Ciência da Computação, 1º Semestre - UTP</h4>
+<h5>- Meus Contatos: </h5>
 
-<!--
-**ThiagoDSMarcelino/ThiagoDSMarcelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>        
+ <a href= "https://www.linkedin.com/in/thiago-marcelino-b139b1221/" target="_blank"><image src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+   
+<div>
+ <a href="https://github.com/ThiagoDSMarcelino">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=blueberry">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&layout=compact&langs_count=168&theme=blueberry"/>
+</div>
+ 
+<div style="display: inline_block"><br> 
+ <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+</div>

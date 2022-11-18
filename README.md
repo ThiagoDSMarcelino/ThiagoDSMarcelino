@@ -1,8 +1,7 @@
-<h2>Olá, Sou o Thiago dos Santos Marcelino!</h2>
-<h4>Aprendiz de Desenvolvimento de Sistemas (TDS) - Bosch</h4>
-<h4>Cursando Ciência da Computação, 1º Semestre - UTP</h4>
-<h5>- Meus Contatos: </h5>
-
+<h2>Hi, I'm Thiago dos Santos Marcelino!</h2>
+<h4>Systems Development Apprentice - Bosch</h4>
+<h4>Studying Computer Science, 1st Semester - UTP</h4>
+<h5>- My contacts: </h5>
 <div>        
  <a href= "https://www.linkedin.com/in/thiago-marcelino-b139b1221/" target="_blank"><image src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>

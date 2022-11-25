@@ -10,11 +10,12 @@
  <a href="https://www.linkedin.com/in/thiago-marcelino-b139b1221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div>
- <a href="https://github.com/ThiagoDSMarcelino">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=blueberry"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&layout=compact&langs_count=168&theme=blueberry"/>
+  <a href="https://github.com/ThiagoDSMarcelino">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&show_icons=true&theme=synthwave"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&layout=compact&theme=synthwave"/>
+  <a/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>

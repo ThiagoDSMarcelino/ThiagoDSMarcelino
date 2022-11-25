@@ -3,8 +3,8 @@
 </div>
 
 <h2>Hi, I'm Thiago dos Santos Marcelino!</h2>
-<h4>Systems Development Apprentice - Bosch</h4>
-<h4>Studying Computer Science, 1st Semester - UTP</h4>
+<h4>:briefcase: Systems Development Apprentice - Bosch</h4>
+<h4>:mortar_board: Studying Computer Science, 1st Semester - UTP</h4>
 
 <div id="badges">
  <a href="https://www.linkedin.com/in/thiago-marcelino-b139b1221/" target="_blank">

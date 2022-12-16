@@ -8,10 +8,10 @@
 <h4>:mortar_board: Studying Computer Science, 1st Semester - UP</h4>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/thiagodsmarcelino/" target="_blank">
+  <a href="https://www.linkedin.com/in/thiagodsmarcelino/" target="_blank"  rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:thiagodsmarcelino@gmail.com?subject=Olá, Thiago! (from github)" target="_blank">
+  <a href="mailto:thiagodsmarcelino@gmail.com?subject=Olá, Thiago! (from github)" target="_blank"  rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=ThiagoDSMarcelino&style=flat-square&color=blue" alt="Profile views counter"/>

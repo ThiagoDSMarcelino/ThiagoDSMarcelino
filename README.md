@@ -20,28 +20,30 @@
 <div>
     <picture>
       <source 
-        height="150em"
         srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&show_icons=true&theme=synthwave"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        height="150em"
         srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&show_icons=true" />
+      <img 
+        height="150em"
+        src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&show_icons=true"
+      />
     </picture>
     <picture>
       <source 
-        height="150em"
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&layout=compact&theme=synthwave"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        height="150em"
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&layout=compact"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&layout=compact" />
+      <img 
+        height="150em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&layout=compact"
+      />
     </picture>
 </div>

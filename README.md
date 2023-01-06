@@ -4,7 +4,7 @@
 
 <h2>Hi, I'm Thiago dos Santos Marcelino!</h2>
 <h4>:briefcase: Systems Development Apprentice - Bosch</h4>
-<h4>:mortar_board: System Development Technician, 1st Semester - SENAI</h4>
+<h4>:mortar_board: System Development Technician, 2st Semester - SENAI</h4>
 <h4>:mortar_board: Studying Computer Science, 1st Semester - UTP</h4>
 
 <div id="badges">

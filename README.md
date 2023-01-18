@@ -28,12 +28,12 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&show_icons=true&theme=buefy"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img 
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&show_icons=true&theme=buefy"
     />
   </picture>
 

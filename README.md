@@ -11,7 +11,7 @@
 </div>
 
 <div>
-  <h2>Social</h2>
+  <h2>Contacts</h2>
   <a href="https://www.linkedin.com/in/thiagodsmarcelino/" target="_blank"  rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>

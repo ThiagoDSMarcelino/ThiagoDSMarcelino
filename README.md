@@ -18,6 +18,9 @@
   <a href="mailto:thiagodsmarcelino@gmail.com?subject=Hi, Thiago! (from Github)" target="_blank"  rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
+  <a href="https://www.hackerrank.com/thiagodsmarceli1" target="_blank"  rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge" />
+  </a>
 </div>
 
 <div>

@@ -27,41 +27,42 @@
   <h2>Status</h2>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&show_icons=true&theme=synthwave"
+      srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=onedark&show_icons=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&show_icons=true&theme=buefy"
+      srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img 
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&show_icons=true&theme=buefy"
+    <img
+      height="200em"
+      src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true"
     />
   </picture>
 
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&layout=compact&theme=synthwave"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=onedark&layout=compact&langs_count=10"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img 
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&layout=compact"
+    <img
+      height="200em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10"
     />
   </picture>
 </div>
-
+<!-- 
 ## Programming Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+-->
 
 ## Frameworks, Platforms and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

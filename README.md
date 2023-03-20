@@ -1,5 +1,7 @@
-<img align="center" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" /><br />
-<img align="center" src="https://komarev.com/ghpvc/?username=ThiagoDSMarcelino&style=flat-square&color=blue" alt="Profile views counter" />
+<div align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" /><br />
+  <img src="https://komarev.com/ghpvc/?username=ThiagoDSMarcelino&style=flat-square&color=blue" alt="Profile views counter" /> 
+</div>
 
 # Hi, I'm Thiago dos Santos Marcelino!
 :briefcase: Systems Development Apprentice - Bosch</br></br>

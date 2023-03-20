@@ -1,60 +1,53 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" /><br />
-  <img src="https://komarev.com/ghpvc/?username=ThiagoDSMarcelino&style=flat-square&color=blue" alt="Profile views counter" />
-</div>
+<img align="center" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" /><br />
+<img align="center" src="https://komarev.com/ghpvc/?username=ThiagoDSMarcelino&style=flat-square&color=blue" alt="Profile views counter" />
 
-<div>
-  <h2>Hi, I'm Thiago dos Santos Marcelino!</h2>
-  <p>:briefcase: Systems Development Apprentice - Bosch</p>
-  <p>:mortar_board: System Development Technician, 2st Semester - SENAI</p>
-  <p>:mortar_board: Studying Computer Science, 1st Semester - UTP</p>
-</div>
+# Hi, I'm Thiago dos Santos Marcelino!
+:briefcase: Systems Development Apprentice - Bosch</br></br>
+:mortar_board: System Development Technician, 2st Semester - SENAI</br></br>
+:mortar_board: Studying Computer Science, 1st Semester - [UTP](https://www.tuiuti.edu.br/)
 
-<div>
-  <h2>Contacts</h2>
-  <a href="https://www.linkedin.com/in/thiagodsmarcelino/" target="_blank"  rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:thiagodsmarcelino@gmail.com?subject=Hi, Thiago! (from Github)" target="_blank"  rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
-  <a href="https://www.hackerrank.com/thiagomarcelino" target="_blank"  rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge" />
-  </a>
-</div>
+## Contacts
+<a href="https://www.linkedin.com/in/thiagodsmarcelino/" target="_blank"  rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="mailto:thiagodsmarcelino@gmail.com?subject=Hi, Thiago! (from Github)" target="_blank"  rel="noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
+<a href="https://www.hackerrank.com/thiagomarcelino" target="_blank"  rel="noreferrer">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge" />
+</a>
 
-<div>
-  <h2>Status</h2>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=onedark&show_icons=true&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      height="200em"
-      src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true"
-    />
-  </picture>
+## Status
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=onedark&show_icons=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    height="200em"
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true"
+  />
+</picture>
 
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=onedark&layout=compact&langs_count=10"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      height="200em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10"
-    />
-  </picture>
-</div>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=onedark&layout=compact&langs_count=10"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    height="200em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10"
+  />
+</picture>
+
 <!-- 
 ## Programming Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)

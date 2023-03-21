@@ -18,31 +18,31 @@
 ## Status
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=onedark&show_icons=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=onedark&show_icons=true&count_private=true&card_width=450px"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&card_width=450px"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
     height="200em"
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&card_width=450px"
   />
 </picture>
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=onedark&layout=compact&langs_count=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=onedark&layout=compact&langs_count=10&card_width=350px"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10&card_width=350px"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
     height="200em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10&card_width=350px"
   />
 </picture>
 

@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" /><br />
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" /><br>
   <img src="https://komarev.com/ghpvc/?username=ThiagoDSMarcelino&style=flat-square&color=blue" alt="Profile views counter" /> 
 </div>
 
 # Hi, I'm Thiago dos Santos Marcelino!
-:briefcase: Systems Development Apprentice - Bosch</br></br>
-:mortar_board: System Development Technician, 2st Semester - SENAI</br></br>
+:briefcase: Systems Development Apprentice - [Bosch](https://www.bosch.com.br/)<br><br>
+:mortar_board: System Development Technician, 2st Semester - [SENAI](https://www.senaipr.org.br/)<br><br>
 :mortar_board: Studying Computer Science, 1st Semester - [UTP](https://www.tuiuti.edu.br/)
 
 ## Contacts

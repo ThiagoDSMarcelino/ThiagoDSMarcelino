@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" /><br>
-  <img src="https://komarev.com/ghpvc/?username=ThiagoDSMarcelino&style=flat-square&color=blue" alt="Profile views counter" /> 
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" /><br> 
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=CCCCCC&center=true&vCenter=true&lines=Thiago+S.+Marcelino)](https://git.io/typing-svg)
 </div>
 
-# Hi, I'm Thiago dos Santos Marcelino!
-:briefcase: Systems Development Apprentice - [Bosch](https://www.bosch.com.br/)<br><br>
-:mortar_board: System Development Technician, 2st Semester - [SENAI](https://www.senaipr.org.br/)<br><br>
+# About me!
+:briefcase: Working as Systems Development Apprentice - [Bosch](https://www.bosch.com.br/)<br><br>
+:mortar_board: Studying System Development Technician, 2st Semester - [SENAI](https://www.senaipr.org.br/)<br><br>
 :mortar_board: Studying Computer Science, 1st Semester - [UTP](https://www.tuiuti.edu.br/)
 
 ## Contacts
@@ -27,7 +28,6 @@
   />
   <img
     height="200em"
-    width="450em"
     src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true"
   />
 </picture>
@@ -43,10 +43,10 @@
   />
   <img
     height="200em"
-    width="350em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10"
   />
 </picture>
+<img src="https://komarev.com/ghpvc/?username=ThiagoDSMarcelino&style=flat-square&color=blue" alt="Profile views counter" />
 
 ## Frameworks, Platforms and Libraries
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)

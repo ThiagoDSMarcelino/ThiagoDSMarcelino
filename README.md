@@ -27,7 +27,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
-    height="200em"
+    height="150em"
     src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true"
   />
 </picture>
@@ -42,7 +42,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
-    height="200em"
+    height="150em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10"
   />
 </picture>

@@ -19,16 +19,16 @@
 ## Status
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=onedark&show_icons=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=onedark&show_icons=true&count_private=true&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&rank_icon=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
     height="150em"
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&rank_icon=github"
   />
 </picture>
 

@@ -19,31 +19,31 @@
 ## Status
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=onedark&show_icons=true&count_private=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=onedark&show_icons=true&count_private=true&rank_icon=github&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&rank_icon=github&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
     height="150em"
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&rank_icon=github&hide_border=true"
   />
 </picture>
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=onedark&layout=compact&langs_count=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=onedark&layout=compact&langs_count=10&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
     height="150em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=10&hide_border=true"
   />
 </picture>
 <img src="https://komarev.com/ghpvc/?username=ThiagoDSMarcelino&style=flat-square&color=blue" alt="Profile views counter" />

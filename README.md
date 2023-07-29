@@ -6,8 +6,8 @@
 
 # About me!
 :briefcase: Working as Systems Development Apprentice - [Bosch](https://www.bosch.com.br/)<br><br>
-:mortar_board: Studying System Development Technician, 2st Semester - [SENAI](https://www.senaipr.org.br/)<br><br>
-:mortar_board: Studying Computer Science, 1st Semester - [UTP](https://www.tuiuti.edu.br/)
+:mortar_board: Studying System Development Technician, 3st Semester - [SENAI](https://www.senaipr.org.br/)<br><br>
+:mortar_board: Studying Computer Science, 2st Semester - [UTP](https://www.tuiuti.edu.br/)
 
 ## Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagodsmarcelino/)

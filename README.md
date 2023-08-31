@@ -11,7 +11,6 @@
 
 ## Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagodsmarcelino/)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/thiagomarcelino)
 <a href="mailto:thiagodsmarcelino@gmail.com?subject=Hi, Thiago! (from Github)" target="_blank"  rel="noreferrer">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
 </a>

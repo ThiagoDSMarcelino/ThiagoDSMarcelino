@@ -6,7 +6,7 @@
 
 ## About Me
 
-:briefcase: I'm currently working as a Systems Development Apprentice at [Bosch](https://www.bosch.com.br/), and I'm passionate about software development.
+:briefcase: I'm currently working as a Systems Development Apprentice at [Bosch](https://www.bosch.com.br/).
 
 :mortar_board: I'm studying System Development as a Technician in my 3rd semester at [SENAI](https://www.senaipr.org.br/).
 

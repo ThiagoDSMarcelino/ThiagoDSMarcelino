@@ -8,9 +8,9 @@
 
 :briefcase: I'm currently working as a Systems Development Apprentice at [Bosch](https://www.bosch.com.br/).
 
-:mortar_board: I'm studying System Development as a Technician in my 3rd semester at [SENAI](https://www.senaipr.org.br/).
+:mortar_board: I'm studying System Development as a Technician in my 4th semester at [SENAI](https://www.senaipr.org.br/).
 
-:mortar_board: I'm also pursuing a degree in Computer Science, currently in my 2nd semester at [UTP](https://www.tuiuti.edu.br/).
+:mortar_board: I'm also pursuing a degree in Computer Science, currently in my 3rd semester at [UTP](https://www.tuiuti.edu.br/).
 
 ## Contact
 
@@ -68,6 +68,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<br>
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)

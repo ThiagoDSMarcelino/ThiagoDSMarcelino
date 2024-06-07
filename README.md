@@ -6,11 +6,11 @@
 
 ## About Me
 
-:briefcase: I'm currently working as a Systems Development Apprentice at [Bosch](https://www.bosch.com.br/).
+🎓 I'm a System Development Technician.
 
-:mortar_board: I'm studying System Development as a Technician in my 4th semester at [SENAI](https://www.senaipr.org.br/).
+💼 I'm currently working as a Fullstack Developer at [Bosch](https://www.bosch.com.br/).
 
-:mortar_board: I'm also pursuing a degree in Computer Science, currently in my 3rd semester at [UTP](https://www.tuiuti.edu.br/).
+📚 I'm also pursuing a degree in Computer Science, currently in my 3rd semester at [UTP](https://www.tuiuti.edu.br/).
 
 ## Contact
 

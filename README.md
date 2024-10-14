@@ -10,7 +10,7 @@
 
 💼 I'm currently working as a Fullstack Developer at [Bosch](https://www.bosch.com.br/).
 
-📚 I'm also pursuing a degree in Computer Science, currently in my 3rd semester at [UTP](https://www.tuiuti.edu.br/).
+📚 I am also studying Information Systems, currently in my 1st semester at [UTFPR](https://www.utfpr.edu.br/).
 
 ## Contact
 

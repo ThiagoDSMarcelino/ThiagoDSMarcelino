@@ -20,31 +20,31 @@
 ## Status
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=onedark&show_icons=true&count_private=true&rank_icon=github&hide_border=true"
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiagoDSMarcelino&theme=onedark&show_icons=true&count_private=true&rank_icon=github&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&rank_icon=github&hide_border=true"
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&rank_icon=github&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
     height="150em"
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&rank_icon=github&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&rank_icon=github&hide_border=true"
   />
 </picture>
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=onedark&layout=compact&langs_count=8&hide_border=true&hide=HTML"
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=onedark&layout=compact&langs_count=8&hide_border=true&hide=HTML"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=8&hide_border=true&hide=HTML"
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=8&hide_border=true&hide=HTML"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
     height="150em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=8&hide_border=true&hide=HTML"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=8&hide_border=true&hide=HTML"
   />
 </picture>
 

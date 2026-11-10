@@ -1,75 +1,64 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" /><br> 
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=CCCCCC&center=true&vCenter=true&lines=Thiago+S.+Marcelino)](https://git.io/typing-svg)
-</div>
+<h1 align="center">Thiago S. Marcelino</h1>
+<p align="center">
+  Systems Developer · Information Systems student at <a href="https://www.utfpr.edu.br/">UTFPR</a> · Curitiba, Brazil
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiagodsmarcelino/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:thiagodsmarcelino@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-🎓 I'm a System Development Technician.
+---
 
-📚 I am also studying Information Systems, currently in my 4th semester at [UTFPR](https://www.utfpr.edu.br/).
+## About me
 
-## Contact
+I'm a Systems Development Technician currently pursuing a degree in Information Systems at UTFPR.
+I enjoy working close to the machine: operating systems, computer architecture, networking and graphics, building things from scratch to understand how they really work.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagodsmarcelino/)
-<a href="mailto:thiagodsmarcelino@gmail.com?subject=Hi, Thiago! (from Github)" target="_blank"  rel="noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-</a>
+- Interested in **systems programming**, **distributed systems** and **low-level software**
+- Currently exploring **Rust**, **Go** and **gRPC**
 
-## Status
-<picture>
-  <source 
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiagoDSMarcelino&theme=onedark&show_icons=true&count_private=true&rank_icon=github&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&rank_icon=github&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    height="150em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiagoDSMarcelino&theme=buefy&show_icons=true&count_private=true&rank_icon=github&hide_border=true"
-  />
-</picture>
+## Languages
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=onedark&layout=compact&langs_count=8&hide_border=true&hide=HTML"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=8&hide_border=true&hide=HTML"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    height="150em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThiagoDSMarcelino&theme=buefy&layout=compact&langs_count=8&hide_border=true&hide=HTML"
-  />
-</picture>
+| Language | Level |
+|---|---|
+| Portuguese | Native |
+| English | Advanced |
+| Spanish | Intermediate |
 
-## Skills
+## Featured projects
 
-**Programming Languages:**
+| Project | Description | Stack |
+|---|---|---|
+| [**sim-os**](https://github.com/ThiagoDSMarcelino/sim-os) | Multitasking operating system simulator with process scheduling | C++ |
+| [**Graphics-3D/engine**](https://github.com/Graphics-3D/engine) | 3D rendering engine built from scratch on top of Windows Forms | C# |
+| [**cpu-architecture**](https://github.com/ThiagoDSMarcelino/cpu-architecture) | 16-bit CPU with a custom assembler, driving a 32×32 LED display | C# |
+| [**luft**](https://github.com/ThiagoDSMarcelino/luft) | Lightweight file transfer protocol over UDP | C++ |
+| [**environmental-controller**](https://github.com/larissaadames/environmental-controller) | Embedded environmental controller (Computer Architecture for Embedded Systems, UTFPR) | C |
+| [**ontology**](https://github.com/ThiagoDSMarcelino/ontology) | Differential calculus library | C++ |
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Tech stack
 
-**Databases:**
+**Languages**
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Technologies:**
+**Databases**
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
